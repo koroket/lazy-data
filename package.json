@@ -1,0 +1,19 @@
+{
+  "name": "lazy-data",
+  "version": "1.0.0",
+  "description": "Node module for namespaced data collection with lazy loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koroket/lazy-data.git"
+  },
+  "author": "Masakazu Bando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koroket/lazy-data/issues"
+  },
+  "homepage": "https://github.com/koroket/lazy-data"
+}
